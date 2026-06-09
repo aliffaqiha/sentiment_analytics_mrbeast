@@ -1,0 +1,8 @@
+*.csv
+split_data.py
+migrasi.py
+!*sample.csv
+.env
+.venv/
+__pycache__/
+*.db
