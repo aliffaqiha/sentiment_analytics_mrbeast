@@ -1,0 +1,26 @@
+# Web Framework & Dashboard
+streamlit
+streamlit-autorefresh
+
+# Data Processing
+pandas
+numpy
+
+# Machine Learning & AI
+torch
+transformers
+spacy
+
+# Natural Language Processing & Helpers
+contractions
+python-dotenv
+tqdm
+
+# API & Database
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Data Visualization
+matplotlib
+seaborn
